@@ -7,8 +7,6 @@
     background-size:cover;
     background-position:center;
     height: 100vh;
-    
-
 }
 .logo{
     width: 100px;
@@ -92,7 +90,7 @@ form{
        display: block;
        margin: 20px auto;
    }
-
+  
 
 
 }
