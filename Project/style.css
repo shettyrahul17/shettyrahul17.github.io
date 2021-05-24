@@ -92,15 +92,7 @@ form{
        display: block;
        margin: 20px auto;
    }
-@-ms-viewport{
-    width: extend-to-zoom;
-    zoom:1.0;
-}
-@-o-viewport
-{
-    width: extend to zoom;
-    zoom:1.0;
-}
+
 
 
 }
