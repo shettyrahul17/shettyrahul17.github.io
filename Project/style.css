@@ -85,7 +85,11 @@ form{
 #text{
     width:auto;
     font-size:50px;
+    font-family:initial;
 
+}
+#kn{
+    font-size: 20px;
 }
 @media screen (max-width:770px){
     .banner-text h1{
